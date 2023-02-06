@@ -1,0 +1,10 @@
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\bin\Debug\SQLCICD.dacpac
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\bin\Debug\SQLCICD.dll
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\bin\Debug\SQLCICD.pdb
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\SQLCICD.sqlproj.AssemblyReference.cache
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\Model.xml
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\refactor.xml
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\postdeploy.sql
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\predeploy.sql
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\SQLCICD.dll
+D:\SQL-Deployment\SQL-CICCD\SQLCICD\obj\Debug\SQLCICD.pdb
